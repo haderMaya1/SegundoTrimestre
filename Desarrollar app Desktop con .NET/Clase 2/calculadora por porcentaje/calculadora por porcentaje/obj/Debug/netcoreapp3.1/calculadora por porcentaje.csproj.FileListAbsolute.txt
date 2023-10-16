@@ -1,0 +1,14 @@
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.csproj.AssemblyReference.cache
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.AssemblyInfoInputs.cache
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.AssemblyInfo.cs
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\bin\Debug\netcoreapp3.1\calculadora por porcentaje.exe
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\bin\Debug\netcoreapp3.1\calculadora por porcentaje.deps.json
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\bin\Debug\netcoreapp3.1\calculadora por porcentaje.runtimeconfig.json
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\bin\Debug\netcoreapp3.1\calculadora por porcentaje.runtimeconfig.dev.json
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\bin\Debug\netcoreapp3.1\calculadora por porcentaje.dll
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\bin\Debug\netcoreapp3.1\calculadora por porcentaje.pdb
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.dll
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.pdb
+C:\Users\yilma\Documents\jose vicente\calculadora por porcentaje\calculadora por porcentaje\obj\Debug\netcoreapp3.1\calculadora por porcentaje.genruntimeconfig.cache

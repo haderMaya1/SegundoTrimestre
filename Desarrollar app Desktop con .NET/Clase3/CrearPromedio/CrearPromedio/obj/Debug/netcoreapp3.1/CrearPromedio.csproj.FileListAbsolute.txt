@@ -1,0 +1,14 @@
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\bin\Debug\netcoreapp3.1\CrearPromedio.exe
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\bin\Debug\netcoreapp3.1\CrearPromedio.deps.json
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\bin\Debug\netcoreapp3.1\CrearPromedio.runtimeconfig.json
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\bin\Debug\netcoreapp3.1\CrearPromedio.runtimeconfig.dev.json
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\bin\Debug\netcoreapp3.1\CrearPromedio.dll
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\bin\Debug\netcoreapp3.1\CrearPromedio.pdb
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.csproj.AssemblyReference.cache
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.AssemblyInfoInputs.cache
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.AssemblyInfo.cs
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.dll
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.pdb
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase3\CrearPromedio\CrearPromedio\obj\Debug\netcoreapp3.1\CrearPromedio.genruntimeconfig.cache

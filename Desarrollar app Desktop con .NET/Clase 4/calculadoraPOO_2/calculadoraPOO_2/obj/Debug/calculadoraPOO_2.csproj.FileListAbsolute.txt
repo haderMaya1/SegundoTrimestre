@@ -1,0 +1,20 @@
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\bin\Debug\calculadoraPOO_2.exe.config
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\bin\Debug\calculadoraPOO_2.exe
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\bin\Debug\calculadoraPOO_2.pdb
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.csproj.AssemblyReference.cache
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.Form1.resources
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.Properties.Resources.resources
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.csproj.GenerateResource.cache
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.exe
+C:\Users\yilma\Documents\jose vicente\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.pdb
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\bin\Debug\calculadoraPOO_2.exe.config
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\bin\Debug\calculadoraPOO_2.exe
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\bin\Debug\calculadoraPOO_2.pdb
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.csproj.AssemblyReference.cache
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.Form1.resources
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.Properties.Resources.resources
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.csproj.GenerateResource.cache
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.csproj.CoreCompileInputs.cache
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.exe
+C:\Users\Jader\OneDrive\Documents\Segundo Trimestre\Desarrollar app Desktop con .NET\Clase 4\calculadoraPOO_2\calculadoraPOO_2\obj\Debug\calculadoraPOO_2.pdb
