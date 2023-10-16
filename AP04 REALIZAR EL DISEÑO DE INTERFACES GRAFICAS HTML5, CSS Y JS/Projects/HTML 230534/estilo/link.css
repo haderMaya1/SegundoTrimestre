@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+
+a{
+    color: bisque;
+    margin: 20px;
+}
+
+a:link{
+    color:black;
+    text-decoration: solid;
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+a:hover{
+    color: seagreen;
+    border: solid 2px royalblue;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+a:active{
+    color: snow;
+}

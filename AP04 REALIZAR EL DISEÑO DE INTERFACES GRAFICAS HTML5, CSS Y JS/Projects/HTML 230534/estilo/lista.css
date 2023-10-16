@@ -1,0 +1,43 @@
+body{
+    background-color: thistle;
+}
+
+ul {
+    list-style-type:  decimal-leading-zero;
+    background-color: turquoise;
+    border: solid 5px #452214;
+    border-radius: 18px;
+    padding-left: 16px;
+}
+
+li{
+    margin: 18px;
+    border-bottom: solid 2px #487232;
+    padding: 20px;
+}
+
+table{
+    width: 100px;
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even){
+
+}
+
+
+td{
+    border: 5px black;
+    padding: 10px;
+}
+
+table th{
+    background-color: blueviolet;
+    color: burlywood;
+    text-align: center;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}

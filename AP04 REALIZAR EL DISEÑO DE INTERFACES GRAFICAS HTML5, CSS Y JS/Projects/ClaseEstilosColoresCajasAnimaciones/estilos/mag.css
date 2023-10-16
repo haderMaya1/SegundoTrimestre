@@ -1,0 +1,122 @@
+body {
+    background-image: url("../imagenes/hal.jpg");
+    /*Posicion del fondo*/
+    background-position: center;
+    /*Solucion de Scroll, fondo, imagen a la pagina*/
+    background-attachment: fixed;
+    background-color: hotpink;
+}
+
+#idletra {
+    color: whitesmoke;
+}
+
+p {
+    color: white;
+}
+
+#border {
+    /*Bordeado*/
+    margin: 80px;
+    text-align: center;
+    padding: 80px;
+    border-style: solid;
+    border-radius: 80px;
+    border-color: white;
+    /*Degradado linear*/
+    background-image: linear-gradient(green, blue);
+}
+
+#border2 {
+    /*Bordeado*/
+    margin: 12px;
+    text-align: center;
+    padding: 12px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: white;
+    /*Degradado radial*/
+    background-image: radial-gradient(white, red);
+    /*sombreado de caja*/
+    box-shadow: -10px -10px rgba(250, 150, 0, 0.8);
+}
+
+#border3 {
+    /*Bordeado*/
+    margin: 50px;
+    text-align: center;
+    padding: 60px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: white;
+    /*Degradado linear*/
+    background-image: linear-gradient(green, blue);
+    /*Transformaciones en 2D*/
+    transform: skew(20deg, 1deg);
+}
+
+#border4 {
+    /*Bordeado*/
+    margin: 40px;
+    text-align: center;
+    padding: 30px;
+    border-style: solid;
+    border-radius: 80px;
+    border-color: white;
+    /*Degradado linear*/
+    background-image: linear-gradient(white, green);
+    /*Transformacion en 3D y sombreado*/
+    transform: perspective(1000px) scaleZ(8) rotateX(10deg);
+    box-shadow: 5px 5px rgba(250, 150, 0, 0.8);
+}
+
+#border5 {
+    /*Bordeado*/
+    margin: 40px;
+    text-align: center;
+    padding: 40px;
+    border-style: solid;
+    border-radius: 80px;
+    border-color: white;
+    /*Degradado linear*/
+    background-image: linear-gradient(white, blue);
+    /*sombreado de caja*/
+    box-shadow: -10px -15px rgba(0, 150, 184, 0.8);
+    /*animacion*/
+    animation-name: anm1;
+    animation-duration: 10s;
+    animation-delay: 2s;
+    position: relative;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes anm1 {
+    0% {
+        background: #aaa;
+        left: 0;
+        top: 0px;
+    }
+    25% {
+        background: green;
+        left: 155px;
+        top: 12px;
+        transform: perspective(1000px) scaleZ(8) rotateX(10deg);
+    }
+    50% {
+        background: navy;
+        left: 15px;
+        top: 20px;
+        transform: perspective(1000px) scaleZ(8) rotateX(10deg);
+    }
+    75% {
+        background: violet;
+        left: 80px;
+        top: 20px;
+    }
+    100% {
+        background: red;
+        left: 10px;
+        top: 8px;
+    }
+}

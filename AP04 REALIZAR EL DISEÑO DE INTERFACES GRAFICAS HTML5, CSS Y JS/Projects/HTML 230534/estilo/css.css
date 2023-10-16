@@ -1,0 +1,48 @@
+body {
+    background-color: orange;
+}
+
+#idunico0 {
+    color: blue;
+}
+
+#idunico {
+    color: gold;
+}
+
+#idunico1 {
+    color: blue;
+}
+
+#idunico2 {
+    color: red;
+}
+
+.classes1 {
+    color: red;
+}
+
+.caja {
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: darkorange;
+    background-color: chartreuse;
+}
+
+.caja2 {
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: chartreuse;
+    background-color: aqua;
+}
+
+.cajas {
+    border-style: solid;
+    border-radius: 21px;
+    width: 500px;
+    height: 100px;
+}

@@ -1,0 +1,43 @@
+using System;
+
+namespace AganarxD!
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {//Inicio
+            int opcion = 0;
+
+            do
+            {
+                Console.WriteLine("\n Menu de opciones");
+                Console.WriteLine("\n"
+                    + "\n1- Nombre"
+                    + "\n2- Que quiere?"
+                    + "\n3- Salir");
+
+                Console.WriteLine("\n      Menu de opciones");
+                opcion = Convert.ToInt32(Console.ReadLine());
+
+                switch (opcion)
+                {
+                    case 1:
+                        Console.WriteLine("\n 1) Mi nombre es: Hader Maya");
+                        break;
+                    case 2:
+                        Console.WriteLine("\n 2) GANAR");
+                        break;
+                    case 3:
+                        Console.WriteLine("\n          *******Saliendo********");
+                        Console.WriteLine("\n <<<<<<<<Hasta la proxima>>>>>>> ");
+                        break;
+
+                    default:
+                        Console.WriteLine("\n  GANAR!!");
+                        break;
+                }
+            } while (opcion = GANAR);
+            
+        }//Final
+    }
+}
