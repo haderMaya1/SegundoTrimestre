@@ -1,0 +1,30 @@
+/*  VARIABLES EN SQL
+
+las variables son extremadamente utiles en los scripts de sql esto 
+ofrece la flexibilidad necesaria para crear herramientas poderosas para usted. se podra observar de su gran utlidad
+en los entornos dinamicos de sql. ademas este es utlizado para generar bucles los cuales controla cuantas veces se desea
+repetir una linea de codigo.
+*/
+
+-- ejemplo 
+
+DECLARE @DBNAME NVARCHAR(100),
+		@RECOVERYMODE NVARCHAR(100),
+		@MAXRECORD INT,
+		@CURRENTRECORD INT,
+		@SQL NVARCHAR(MAX)
+
+/*declare es el comando usado para indicar las variables que se van a utlizar
+despues se le asigna el nombre de la variable y por ultimo se declara el tipo de dato y por ultimo la cantidad datos que va a alvergar ese tipo de dato
+en la 12 indicamos el nombre de la variable y luego el tipo de dato, y por ultimo, ingresamos la cantidad de datos que alvergara ese dato
+en el resto de lineas realizamos lo mismo pero sin necesidad de colocar la cantidad datos ya que es de tipo entero*/
+
+-- una vez que tenemos la variable declara @MAXRECORD como de tipo entero podemos emplear el SET al igual que el @currentrecord
+
+SET @MAXRECORD = 10
+
+SET @CURRENTRECORD = 20
+
+/* al declara el @MAXRECORD como tipo entero podemos utilizar el set para poder asignarle un balor 
+tal y como realizamos en el ejemplo por lo que se esta empleando el set para llamar el dato que se encuentra denominado de tipo entero 
+para luego asignarle su valor correspondiente*/
